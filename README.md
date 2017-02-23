@@ -4,10 +4,7 @@ Code example companion for the DevNexus talk: ["Keeping Android Secrets Secure w
 
 ### Setup
 - Requires Android Studio 2.3 or later!
-- Uses the [project lombok](https://projectlombok.org/) with lombok plugin to generate getters, setters and constructors.
-
-To install the Lombok Plugin:
-
+- install the Lombok Plugin
 	- Go to File > Settings > Plugins.
 	- Click on Browse repositories...
 	- Search for Lombok Plugin.
