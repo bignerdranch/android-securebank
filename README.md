@@ -10,3 +10,6 @@ Code example companion for the DevNexus talk: ["Keeping Android Secrets Secure w
 	- Search for Lombok Plugin.
 	- Click on Install plugin.
 	- Restart Android Studio.
+
+
+Slides from the accompanying talk: [https://speakerdeck.com/mutexkid/keeping-android-secrets-secure-with-fingerprint-authentication-and-the-keystore](https://speakerdeck.com/mutexkid/keeping-android-secrets-secure-with-fingerprint-authentication-and-the-keystore)
